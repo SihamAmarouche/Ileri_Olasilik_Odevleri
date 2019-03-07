@@ -16,7 +16,6 @@ m > n durumunda en az bir yuvada birden fazla güvercin bulunmalıdır.
 [#img-pigeon]
 [caption="Figure 1: "]
 image::pigeon.png[Pigeon,350,250]
-'''
 
 
 ifdef::env-github[]
