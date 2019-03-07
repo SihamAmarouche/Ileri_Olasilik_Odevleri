@@ -28,3 +28,5 @@ while True:
     else:
         print("İstenilen aralıkta bir sayı giriniz lütfen !!")
     print("\n")
+
+
