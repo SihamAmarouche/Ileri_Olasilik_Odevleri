@@ -15,7 +15,7 @@ m > n durumunda en az bir yuvada birden fazla güvercin bulunmalıdır.
 .Güvercin yuvası prensibi
 [#img-pigeon]
 [caption="Figure 1: "]
-image::pigeon.png[Pigeon,399,250]
+image::pigeon.png[Pigeon,500,250]
 
 {empty} +
 
