@@ -9,14 +9,14 @@ bir yuvaya birden fazla güvercin girmek zorundadır.
 Bu durumu sembollerle göstermemiz gerekirse n tane yuva ve m tane güvercin için:
 m > n durumunda en az bir yuvada birden fazla güvercin bulunmalıdır.
 
-+
+
 
 .Güvercin yuvası prensibi
 [#img-pigeon]
 [caption="Figure 1: "]
-image::pigeon.png[Pigeon,250,300]
+image::pigeon.png[Pigeon,350,250]
 
-+
+
 
 ifdef::env-github[]
 :tip-caption: :bulb:
