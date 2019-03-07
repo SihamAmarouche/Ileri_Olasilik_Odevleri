@@ -29,14 +29,3 @@ while True:
         print("İstenilen aralıkta bir sayı giriniz lütfen !!")
     print("\n")
 
-# Örnek :
-# Bir Odada 8 kişi toplandığını düşünelim, en az kaç kişinin doğum günü
-# haftanın aynı güne denk gelecektir ? Cevap : 2 kişidir.
-
-#Çözüm :
-# 8 kişi haftanın 7 gününe ayrılacaktır.
-# Güvercin Yuvası Prensibine uyarlandığında güvercin sayısı kişi sayısı ile; haftanın 7 günü ise yuva sayısı ile özdeleştirilmiştir.
-# Kişi sayısı, haftanın günlerin sayısına (yani burada 7'e) bölünür. Sonra bulunan değer yukarıya yuvarlanır.
-
-#math.ceil(Güvercin sayısı / Yuva sayısı)= math.ceil(Kişi sayısı / Haftanın gün sayısı)
-#math.ceil(8/7)=2
