@@ -28,7 +28,7 @@ Kişi sayısı, haftanın günlerin sayısına (yani burada 7'e) bölünür. Son
 
 ===== Yukarıdaki örneğin matematiksel çözümü :
 
-.Ornek_Cozumu.py
+.Ornek_cozumu.py
 [source,python]
 ----
 math.ceil(Güvercin sayısı / Yuva sayısı)= math.ceil(Kişi sayısı / Haftanın gün sayısı)
