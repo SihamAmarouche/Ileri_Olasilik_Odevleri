@@ -1,3 +1,4 @@
+<p><span class="red">this is printed in red</span>
 
 '''
 === GÜVERCİN YUVASI PRENSİBİ :
