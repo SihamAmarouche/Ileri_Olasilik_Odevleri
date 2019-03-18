@@ -14,25 +14,16 @@ m > n durumunda en az bir yuvada birden fazla güvercin bulunmalıdır.
 
 
 
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
 
-
-[information_source]
-====
 Örnek :
 
-Bir Odada 8 kişi toplandığını düşünelim, en az kaç kişinin doğum günü
-haftanın aynı güne denk gelecektir ? Cevap : 2 kişidir.
+Bir Odada 8 kişi toplandığını düşünelim, en az kaç kişinin doğum günü haftanın aynı güne denk gelecektir ? 
+
+Cevap : 2 kişidir.
+
 ====
 
-[bulb]
-====
+
 Çözüm :
 
 8 kişi haftanın 7 gününe ayrılacaktır.
